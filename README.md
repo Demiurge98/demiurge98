@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Tyree
 
-<!--
-**Demiurge98/demiurge98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst focused on turning raw data into clear insights that drive real decisions.  
+Skilled in **Python, SQL, Excel, and Power BI**, I enjoy building projects that combine analytical thinking with real-world impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- **Languages:** Python, SQL  
+- **Data:** pandas, NumPy, scikit-learn  
+- **Visualization:** Matplotlib, Seaborn, Power BI, Excel  
+- **Other:** Data cleaning, forecasting, statistical analysis, machine learning
+
+---
+
+## 📂 What You’ll Find Here
+- End-to-end data analysis projects  
+- Machine learning models  
+- SQL analytics  
+- Dashboards and business insights  
+- Clean, documented notebooks and code
+
+---
+
+## 📫 Connect With Me
+**LinkedIn:** https://www.linkedin.com/in/tyreebrown98  
+**Location:** Philadelphia, PA
+
+---
+
+Thanks for stopping by — more projects coming soon!
